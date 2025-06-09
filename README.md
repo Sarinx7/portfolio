@@ -10,8 +10,8 @@ A modern, responsive portfolio web application built with **Next.js**, **React**
 - 📄 Pages: Home, About, Projects, Contact
 
 ## Tech Stack
-- [Next.js 15](https://nextjs.org/)
-- [React 19](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
